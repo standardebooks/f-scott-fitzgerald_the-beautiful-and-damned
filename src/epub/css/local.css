@@ -51,6 +51,7 @@ ol{
 	/* Hide list style because the list is quoted text, and we want the
 	opening quotation marks to be *outside* of the ordinal numbers. */
 	list-style: none;
+	padding: 0;
 }
 
 i em,
