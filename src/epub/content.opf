@@ -74,13 +74,13 @@
 		<meta property="file-as" refines="#author">Fitzgerald, F. Scott</meta>
 		<meta property="se:name.person.full-name" refines="#author">Francis Scott Key Fitzgerald</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/F._Scott_Fitzgerald</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79006871</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006871</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">J. C. Leyendecker</dc:contributor>
 		<meta property="file-as" refines="#artist">Leyendecker, J. C.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Joseph Christian Leyendecker</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._C._Leyendecker</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n50051949</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50051949</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Stan Goodman</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Goodman, Stan</meta>
