@@ -26,8 +26,10 @@ footer{
 }
 
 figure{
-	transform: scale(-1, 1);
+	break-inside: avoid;
+	margin: 1em auto;
 	text-align: center;
+	transform: scale(-1, 1);
 }
 
 blockquote[epub|type~="z3998:diary-entry"]{
