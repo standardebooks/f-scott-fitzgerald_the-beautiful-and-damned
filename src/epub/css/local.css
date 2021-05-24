@@ -40,12 +40,12 @@ blockquote[epub|type~="z3998:diary-entry"] p{
 	text-indent: 1em;
 }
 
-[epub|type~="subchapter"] header{
+[epub|type~="z3998:subchapter"] header{
 	font-variant: small-caps;
 	margin-top: 3em;
 }
 
-[epub|type~="subchapter"] header + *{
+[epub|type~="z3998:subchapter"] header + *{
 	margin-top: 1em;
 }
 
