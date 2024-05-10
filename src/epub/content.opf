@@ -66,7 +66,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/9830</dc:source>
 		<dc:source>https://archive.org/details/beautifuldamned00fitzuoft</dc:source>
 		<meta property="se:word-count">127328</meta>
-		<meta property="se:reading-ease.flesch">63.7</meta>
+		<meta property="se:reading-ease.flesch">63.8</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beautiful_and_Damned</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/f-scott-fitzgerald_the-beautiful-and-damned</meta>
 		<dc:creator id="author">F. Scott Fitzgerald</dc:creator>
