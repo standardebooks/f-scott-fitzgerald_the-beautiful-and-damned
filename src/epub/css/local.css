@@ -121,7 +121,7 @@ section[epub|type~="dedication"] p{
 }
 
 section[epub|type~="dedication"] b{
-	font-size: 1.2em;
+	font-size: larger;
 }
 
 /* All epigraphs */
