@@ -55,7 +55,7 @@
 		<meta property="authority" refines="#subject-8">LCSH</meta>
 		<meta property="term" refines="#subject-8">sh2008111214</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.</dc:abstract>
+		<meta property="schema:abstract">The marriage between a down-and-out aesthete and a self-indulgent flapper begins to crumble against the backdrop of World War I and America’s Jazz Age.</meta>
 		<dc:description>
 			&lt;p&gt;Anthony Patch, the grandson of a wealthy businessman, spends his youth in idle relaxation expecting to inherit his grandfather’s fortune. But when he meets Gloria, a vibrant young flapper, the two feel an irresistible attraction and quickly get married despite their clashing personalities.&lt;/p&gt;
 			&lt;p&gt;The two embark on a lifestyle of Jazz Age living: hard partying, profligate spending, and generally living the high life. But Anthony’s prohibitionist grandfather soon finds out and disowns Anthony, sending their lifestyle crashing down from its former heights to intolerable indignity.&lt;/p&gt;
